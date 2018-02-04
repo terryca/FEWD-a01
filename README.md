@@ -1,7 +1,8 @@
 #FEWD-a01
 FEWD assignment 1
+
 ##Introductions
-Hidy-ho, my name is **Terry**! I am a photographer, videographer, and _*future web developer*_.
+Hidy-ho, my name is **Terry**! I am a photographer, videographer, and _**future web developer**_.
 
 I enjoy:
 * Photographing women
