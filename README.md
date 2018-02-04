@@ -1,4 +1,4 @@
-# FEWD-a01
+FEWD-a01
 FEWD assignment 1
 ##Introductions
 Hidy-ho, my name is __*Terry*__! I am a photographer, videographer, and future web developer.
@@ -16,7 +16,7 @@ My morning ritual is:
 4. Making and drinking coffee
 
 This is my mug:
-![This is a lovely picture of me](http://http://testingfx.com/images/fewdTerry.jpg)
+![This is a lovely picture of me](http://testingfx.com/images/fewdTerry.jpg)
 
 I am currently taking piano lessons from a wonderful and talented teacher through San Diego Continuing Education. Learn about her classes [here](http://helenaweipiano.org)
 
