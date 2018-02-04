@@ -5,7 +5,7 @@ FEWD assignment 1
 Hidy-ho, my name is **Terry**! I am a photographer, videographer, and _**future web developer**_.
 
 I enjoy:
-* Photographing women
+* Photographing 
 * Creating short films
 * Learning
 * Creating
@@ -19,5 +19,5 @@ My morning ritual is:
 This is my mug:
 ![This is a lovely picture of me](http://testingfx.com/images/fewdTerry.jpg)
 
-I am currently taking piano lessons from a wonderful and talented teacher through San Diego Continuing Education. Learn about her classes [here](http://helenaweipiano.org)
+I am currently taking piano lessons from a wonderful and talented teacher through San Diego Continuing Education. Learn about her classes [here].(http://helenaweipiano.org)
 
